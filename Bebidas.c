@@ -5,6 +5,7 @@
 #include<conio.h>
 struct ficha{
 	int cod;
+	int idade;
 	char tipo;
 	int preco;
 };
