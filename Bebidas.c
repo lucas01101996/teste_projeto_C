@@ -3,11 +3,11 @@
 #include <windows.h>
 #include <locale.h>
 #include<conio.h>
-/*struct ficha{
+struct ficha{
 	int cod;
 	char tipo;
 	int preco;
-};*/
+};
 
 
 int op, teste, escolha;    
